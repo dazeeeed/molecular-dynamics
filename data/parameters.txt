@@ -1,0 +1,13 @@
+n	5
+m	1
+epsilon	1
+R	0.38
+f	1e4
+L	2.3
+a	0.373
+T_0	0
+tau	2e-3
+S_0	100
+S_d	3000
+S_out	2
+S_xyz	2
